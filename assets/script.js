@@ -123,7 +123,7 @@ function getIceCreamStores(loc) {
       routeArray.push(destinationPos);
     }
 
-    var mapQuestKey = "9AgqZKZn0ADemXkKXiJZt6SZAaN9EW2w";
+    var mapQuestKey = "7qB0GaDmnvFBrBGryDHgvZH6KXuOKtkN";
     for (let i = 0; i < routeArray.length; i++) {
       var pointB = routeArray[i];
 
